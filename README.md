@@ -22,4 +22,4 @@ A research on creation of metaheuristic university class timetable scheduling so
 ### Educational Documentation
 Complete educational documentation of the project can be downloaded at https://drive.google.com/open?id=1Txkrphrg0dZyLGcn_g8pVzp7HpruoEVA
 
-*For more information, please contact me at benmarcel63@gmail.com
+*For more information, please contact me at edceliz01@gmail.com.*

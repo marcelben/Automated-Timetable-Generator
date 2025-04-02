@@ -1,0 +1,135 @@
+2025-04-02 11:19:34,279 - __main__ - INFO - Application starting...
+2025-04-02 11:19:34,279 - __main__ - INFO - Starting application...
+2025-04-02 11:19:34,279 - __main__ - INFO - Checking environment...
+2025-04-02 11:19:34,279 - __main__ - INFO - Environment check passed
+2025-04-02 11:19:34,279 - components.Database - INFO - Checking database setup...
+2025-04-02 11:19:34,279 - components.Database - INFO - Database setup check passed
+2025-04-02 11:19:34,279 - __main__ - INFO - Creating Qt application...
+2025-04-02 11:19:34,303 - __main__ - INFO - Creating main window...
+2025-04-02 11:19:34,304 - __main__ - DEBUG - Parent window created
+2025-04-02 11:19:34,305 - __main__ - INFO - Initializing MainWindow...
+2025-04-02 11:19:34,852 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,855 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,869 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,888 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,891 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,896 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,900 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,917 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:34,920 - __main__ - DEBUG - MainWindow initialized
+2025-04-02 11:19:34,921 - __main__ - INFO - Showing parent window...
+2025-04-02 11:19:35,098 - __main__ - INFO - Application window created successfully
+2025-04-02 11:19:35,098 - __main__ - INFO - Starting application event loop
+2025-04-02 11:19:50,421 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:50,425 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:50,441 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:50,658 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:51,884 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:51,892 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:51,918 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:51,936 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:53,980 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:53,987 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:53,999 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:54,236 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:55,990 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:56,004 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:56,015 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:56,040 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:58,392 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:58,404 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:58,415 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:58,436 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:19:58,436 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:20:01,123 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:20:14,017 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:20:42,471 - __main__ - INFO - Application exiting with code 0
+2025-04-02 11:22:43,198 - __main__ - INFO - Application starting...
+2025-04-02 11:22:43,199 - __main__ - INFO - Starting application...
+2025-04-02 11:22:43,199 - __main__ - INFO - Checking environment...
+2025-04-02 11:22:43,199 - __main__ - INFO - Environment check passed
+2025-04-02 11:22:43,199 - components.Database - INFO - Checking database setup...
+2025-04-02 11:22:43,199 - components.Database - INFO - Database setup check passed
+2025-04-02 11:22:43,199 - __main__ - INFO - Creating Qt application...
+2025-04-02 11:22:43,221 - __main__ - INFO - Creating main window...
+2025-04-02 11:22:43,221 - __main__ - DEBUG - Parent window created
+2025-04-02 11:22:43,221 - __main__ - INFO - Initializing MainWindow...
+2025-04-02 11:22:43,728 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,739 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,744 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,764 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,765 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,772 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,776 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,794 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:43,798 - __main__ - DEBUG - MainWindow initialized
+2025-04-02 11:22:43,798 - __main__ - INFO - Showing parent window...
+2025-04-02 11:22:43,965 - __main__ - INFO - Application window created successfully
+2025-04-02 11:22:43,966 - __main__ - INFO - Starting application event loop
+2025-04-02 11:22:50,528 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:50,538 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:50,555 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:50,575 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:51,608 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:51,615 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:51,624 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:51,647 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:52,442 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:52,446 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:52,460 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:52,496 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:22:52,498 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:25:15,117 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:27:20,667 - __main__ - INFO - Application exiting with code 0
+2025-04-02 11:29:57,183 - __main__ - INFO - Application starting...
+2025-04-02 11:29:57,183 - __main__ - INFO - Starting application...
+2025-04-02 11:29:57,193 - __main__ - INFO - Checking environment...
+2025-04-02 11:29:57,193 - __main__ - INFO - Environment check passed
+2025-04-02 11:29:57,193 - components.Database - INFO - Checking database setup...
+2025-04-02 11:29:57,193 - components.Database - INFO - Database setup check passed
+2025-04-02 11:29:57,193 - __main__ - INFO - Creating Qt application...
+2025-04-02 11:29:57,215 - __main__ - INFO - Creating main window...
+2025-04-02 11:29:57,216 - __main__ - DEBUG - Parent window created
+2025-04-02 11:29:57,217 - __main__ - INFO - Initializing MainWindow...
+2025-04-02 11:29:57,715 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,719 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,728 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,746 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,751 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,755 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,760 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,775 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:29:57,780 - __main__ - DEBUG - MainWindow initialized
+2025-04-02 11:29:57,780 - __main__ - INFO - Showing parent window...
+2025-04-02 11:29:57,950 - __main__ - INFO - Application window created successfully
+2025-04-02 11:29:57,952 - __main__ - INFO - Starting application event loop
+2025-04-02 11:30:00,512 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:00,521 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:00,538 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:00,561 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:03,599 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:05,437 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:05,437 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:05,452 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:05,668 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:06,708 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:06,714 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:06,725 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:06,747 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:07,724 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:07,745 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:07,758 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:07,780 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:07,780 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:16,220 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:20,058 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:36,696 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:43,535 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:43,537 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:43,547 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:43,754 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:45,279 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:45,287 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:45,293 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:30:45,310 - components.Database - DEBUG - Creating new database connection
+2025-04-02 11:37:08,316 - __main__ - INFO - Application exiting with code 0
