@@ -20,6 +20,6 @@ A research on creation of metaheuristic university class timetable scheduling so
 3. psutil
 
 ### Educational Documentation
-Complete educational documentation of the project can be downloaded at https://drive.google.com/open?id=1Txkrphrg0dZyLGcn_g8pVzp7HpruoEVA
+Complete educational documentation of the project can be downloaded at https://docs.google.com/document/d/1ljRl4WYFDZWBmVobTY99BJz9VGOLAxuM/edit?usp=drive_link&ouid=107313917612050148594&rtpof=true&sd=true
 
 *For more information, please contact me at benmarcel63@gmail.com.*
